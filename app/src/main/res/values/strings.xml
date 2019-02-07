@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BroadcastTestApp</string>
+    <string name="pizza_description">Greek pizza refers to a style of pizza crust and its preparation, rather than its toppings.
+        This style is baked in a pan, instead of directly on the bricks of the pizza oven, (as is more traditional for Italian pizza).</string>
+    <string name="pizza_name">Greek Pizza</string>
+    <string name="pizza_ingredients">Pizza dough, cheese, tomato sauce</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="call">Call</string>
+    <string name="order">Order</string>
+    <string name="ordered">Ordered!</string>
+    <string name="not_ordered">Not ordered!</string>
+    <string name="phone_number">+380974435601</string>
+    <string name="called_success">Your call was successfully!</string>
+    <string name="cancel">Cancel</string>
+    <string name="call_cancelled">Call was canceled!</string>
+    <string name="ordering">Ordering...</string>
+</resources>
